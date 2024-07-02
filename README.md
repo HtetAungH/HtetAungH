@@ -6,13 +6,64 @@
 
 💡 Always eager to learn and contribute to innovative projects
 
-💻 Tech Stack: Java, Spring MVC, Spring Security, HTML, CSS, Bootstrap, JavaScript, React, React Formik, PostgreSQL, MySQL, jQuery, MyBatis, LeetCode, Git Bash, API Dog
-
 🌐 Check out my portfolio at alexjohnson.dev
 
 📫 Reach me at hlainghtetaung76@gmail.com
 
 🔗 Connect with me on [Facebook](https://www.facebook.com/htet.aunghlaing.969952?mibextid=LQQJ4d)
+
+### Languages and Tools
+
+#### Programming Languages
+- **Python**
+- **JavaScript**
+- **Java**
+- **C++**
+- **TypeScript**
+
+#### Web Development
+- **HTML**
+- **CSS**
+- **React**
+- **Node.js**
+- **Django**
+- **Angular**
+- **Flask**
+
+#### Databases
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **SQLite**
+
+#### DevOps and Cloud
+- **Docker**
+- **Kubernetes**
+- **AWS (Amazon Web Services)**
+- **Azure**
+- **Google Cloud Platform**
+
+#### Tools and Technologies
+- **Git**
+- **GitHub**
+- **Jenkins**
+- **Travis CI**
+- **Terraform**
+- **Ansible**
+
+#### Libraries and Frameworks
+- **Pandas**
+- **NumPy**
+- **TensorFlow**
+- **Keras**
+- **Express.js**
+
+#### Others
+- **Linux**
+- **VSCode (Visual Studio Code)**
+- **Jupyter Notebook**
+- **Visual Studio**
+- **PyCharm**
 
 
 <!---
