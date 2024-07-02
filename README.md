@@ -6,7 +6,7 @@
 
 💡 Always eager to learn and contribute to innovative projects
 
-💻 Tech Stack:Java, Spring MVC, Spring Security, HTML, CSS, Bootstrap, JavaScript, React, React Formik, PostgreSQL, MySQL, jQuery ,MyBatis, LeetCode, Git Bash, API Dog
+💻 Tech Stack:Java, Spring MVC, Spring Security, HTML, CSS, Bootstrap, JavaScript, React, React Formik, PostgreSQL, MySQL, jQuery, MyBatis, LeetCode, Git Bash, API Dog
 
 🌐 Check out my portfolio at alexjohnson.dev
 
