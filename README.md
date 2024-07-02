@@ -12,58 +12,9 @@
 
 🔗 Connect with me on [Facebook](https://www.facebook.com/htet.aunghlaing.969952?mibextid=LQQJ4d)
 
-### Languages and Tools
+🛠️ Languages and Tools: Java, Spring MVC, Spring Security, Spring REST API, HTML, CSS, Bootstrap, JavaScript, React, React Router, React Formik, PostgreSQL, MySQL, jQuery, MyBatis, LeetCode, Git Bash, API Dog
 
-#### Programming Languages
-- **Python**
-- **JavaScript**
-- **Java**
-- **C++**
-- **TypeScript**
 
-#### Web Development
-- **HTML**
-- **CSS**
-- **React**
-- **Node.js**
-- **Django**
-- **Angular**
-- **Flask**
-
-#### Databases
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-- **SQLite**
-
-#### DevOps and Cloud
-- **Docker**
-- **Kubernetes**
-- **AWS (Amazon Web Services)**
-- **Azure**
-- **Google Cloud Platform**
-
-#### Tools and Technologies
-- **Git**
-- **GitHub**
-- **Jenkins**
-- **Travis CI**
-- **Terraform**
-- **Ansible**
-
-#### Libraries and Frameworks
-- **Pandas**
-- **NumPy**
-- **TensorFlow**
-- **Keras**
-- **Express.js**
-
-#### Others
-- **Linux**
-- **VSCode (Visual Studio Code)**
-- **Jupyter Notebook**
-- **Visual Studio**
-- **PyCharm**
 
 
 <!---
