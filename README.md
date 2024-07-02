@@ -6,7 +6,7 @@
 
 💡 Always eager to learn and contribute to innovative projects
 
-🌐 Check out my portfolio at alexjohnson.dev
+⚡ Fun fact: I love playing football!
 
 📫 Reach me at hlainghtetaung76@gmail.com
 
