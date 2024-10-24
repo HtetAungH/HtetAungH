@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Htet Aung Hlaing</h1>
 <h3 align="center">Junior Java Developer & Web Developer</h3>
-
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.2111879a21ac6b5eacb5e750bc86997f?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1360%2f1*IRGHmiGsa16stedQvIaZfw.gif&ehk=VYcjnAv6l7KQhH308m3jWGCStHc02qbLiWl5N7MUoZo%3d">
 
 🌱 I’m currently learning **React Native**
@@ -20,5 +19,5 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radica](https://github.com/HtetAungH)l](https://github.com/HtetAungH/my-ticket-booking-app))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
